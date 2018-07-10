@@ -12,4 +12,5 @@ html {
 
 @media only screen (min-width: 406px) and (max-width: 1170px) {
   top: 100px;
+  right: 100px; 
 }
