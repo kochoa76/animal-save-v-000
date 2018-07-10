@@ -12,8 +12,8 @@ html {
 
 @media only screen (min-width: 1196px) {
 
-    #bear img {
-      position: absolute; 
+    #bear {
+      position: absolute;
       left: 800px;
     }
 
