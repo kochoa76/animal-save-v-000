@@ -11,7 +11,11 @@ html {
 /* Write your solution here */
 
 @media only screen (min-width: 1196px) {
-  
-  
-}
 
+    #bear img {
+      position: absolute; 
+      left: 800px; 
+    }
+  
+
+}
