@@ -10,12 +10,10 @@ html {
 
 /* Write your solution here */
 
-@media only screen (max-width: 1196px) {
+@media only screen (min-width: 1196px) {
 
     #bear {
-      position: absolute;
       left: 800px;
-      width: auto; 
     }
 
 
